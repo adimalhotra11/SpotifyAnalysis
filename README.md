@@ -1,5 +1,7 @@
 # SpotifyAnalysis 
 
+![alt text](https://mms.businesswire.com/media/20200722005444/en/807306/5/Spotify_Logo_RGB_Green%5B2%5D.jpg=100)  
+
 ## Performed Exploratory Data Analysis on Spotify's Data (available as zip file in the repo).  
 
 Spotify has 454.06 days of music or 1.24 year of continous listening. In other words it will take 1.24 years for you to listen to all the songs.  
